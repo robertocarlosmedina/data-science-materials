@@ -1,0 +1,20 @@
+Main notes:
+  - 16/10 - 19/10, 20/11 - 24/11 and 11/12 - 15/12 we don't have classes with Nuno Teodoro
+  -  We'll talk about strategies, etc...    
+  - Threats is something that is always there, and a vulnerability is something present in a system
+  - Cybersecurity Pilar's:
+    * Confidentiality - data should only accessible only from how as access to them
+    * Disposability - data should be always accessible if needed
+    * Integrity - the data should maintain their integrity 
+  - In Data Security we should have in mind:
+    * Legislation
+    * Sectorial Regulation
+    * Internal directions 
+  - 27005 Threats Management has a list of known threats 
+   
+Todo:
+  - Search for No More Ransomware https://www.nomoreransom.org
+  - Search on https://sans.org
+  - Search on https://owasp.org
+  - Search https://synopsys.com
+  -

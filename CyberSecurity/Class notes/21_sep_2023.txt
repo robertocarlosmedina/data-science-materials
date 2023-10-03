@@ -1,0 +1,8 @@
+Main notes:
+  - First task of a cyber security job is to know the active points of the organization
+
+Todo:
+  - Check on "WarGames" movie
+  - Research about "Certified Information System Security Professional (CISSP)" certifications 
+  - Check more info about rhe NIST Framework
+  - Research about CEH certification on cyber security
