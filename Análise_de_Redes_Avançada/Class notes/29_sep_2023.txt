@@ -1,0 +1,14 @@
+Main notes:
+  - If we have a targeted network we can only use half of the matrix 
+  - If we have a non targeted network we need to use all the matrix 
+  - With normalization we reduce the dependency relation between two variables
+  - Central quantities to keep in mind in network science:
+    * Degree Distribution
+    * Midian Distance 
+    * Clustering Coefficient 
+  
+
+Todo:
+  - Final project is to be done till 22th December
+    * Presentation will be in classes
+  
