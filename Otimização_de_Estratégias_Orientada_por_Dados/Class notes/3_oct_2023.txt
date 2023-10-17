@@ -1,0 +1,6 @@
+Main notes:
+  - In MAR we don't have states only actions
+  - 
+
+Todo:
+  - Research more about the Bellman equation        

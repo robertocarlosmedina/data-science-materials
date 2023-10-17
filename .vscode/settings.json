@@ -1,3 +1,19 @@
 {
-  "r.lsp.promptToInstall": false
+  "r.lsp.promptToInstall": false,
+  "cSpell.words": [
+    "argmax",
+    "backtest",
+    "backtesting",
+    "cagr",
+    "cumprod",
+    "cvar",
+    "dropna",
+    "figsize",
+    "graphviz",
+    "modulos",
+    "polyfit",
+    "probs",
+    "xlabel",
+    "ylabel"
+  ]
 }

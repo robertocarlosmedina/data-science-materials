@@ -1,6 +1,0 @@
-Main Notes:
-
-Todo:
-  - Research about Manuela Veloso, portuguese researcher
-  - Learn more about N-beats
-  - Research about the google mind research about the sales person problem  
