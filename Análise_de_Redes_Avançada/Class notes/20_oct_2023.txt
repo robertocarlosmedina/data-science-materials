@@ -1,0 +1,5 @@
+Main notes:
+  - 
+
+Todo:
+  - Transform r script to generate random graphs to a Python script

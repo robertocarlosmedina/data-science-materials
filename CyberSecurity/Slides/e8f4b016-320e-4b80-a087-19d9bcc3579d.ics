@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20231116T160956Z
+UID:calendly-849135726
+DTSTART:20231120T160000Z
+DTEND:20231120T161500Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: 15 Minute Meeting\nDate & Time: 16:00 - 16:15 (UK\,
+  Ireland\, Lisbon Time) on Monday\, November 20\, 2023\nLocation: This is 
+ a Microsoft Teams web conference.\n\nYou can join this meeting from your c
+ omputer\, tablet\, or smartphone.\nhttps://calendly.com/events/958606c4-8a
+ 93-4337-b888-c7f759b679e8/microsoft_teams\n\nNeed to make changes to this 
+ event?\nCancel: https://calendly.com/cancellations/e8f4b016-320e-4b80-a087
+ -19d9bcc3579d\nReschedule: https://calendly.com/reschedulings/e8f4b016-320
+ e-4b80-a087-19d9bcc3579d\n
+LOCATION:https://calendly.com/events/958606c4-8a93-4337-b888-c7f759b679e8/m
+ icrosoft_teams
+SUMMARY:15 Minute Meeting with Will Hopcroft
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,6 @@
+Class Notes:
+  - We'll have an exam that is 40% of the final grade and a project that is 60% final grade 
+  - 
+
+Todo:
+  - Install Hadoop on the Docker container
